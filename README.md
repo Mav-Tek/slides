@@ -7,3 +7,5 @@ These are presentations:
 * <a href="http://enterprisemediawiki.github.io/slides/WikiOverview">Wiki Overview</a>
 * <a href="http://enterprisemediawiki.github.io/slides/Wiki-DataScienceDay">Analyzing a KM System and its Users</a>
 * <a href="http://enterprisemediawiki.github.io/slides/Increasing_the_Awesome">Increasing the Awesome</a>
+
+* <a href="http://Mav-Tek.github.io/slides/WikiOverview">Costa's Case Study</a>
